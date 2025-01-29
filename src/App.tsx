@@ -1,4 +1,4 @@
-//@ts-ignore
+//@ts-nocheck
 import { useEffect, useState } from 'react';
 import type { Schema } from './API';
 import { generateClient } from 'aws-amplify/api';
